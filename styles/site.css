@@ -252,4 +252,9 @@ blockquote p {
   .events-text {
     order: 2;
   }
+
+  .hidden {
+    display: none !important;
+  }
+
 }
